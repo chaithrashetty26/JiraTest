@@ -1,0 +1,14 @@
+{"fields":
+{
+  "project":
+  {
+    "key":"MYP"
+  },
+  "summary":"Bug ",
+  "description":"Bug has been created. Test bug",
+  "issuetype":
+  {
+    "name":"Bug"
+  }
+}
+}
