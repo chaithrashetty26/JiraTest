@@ -12,6 +12,7 @@ Add Issues
     Output   response body   ./u.json
     ${id}   Output    response body id
     log to console    ${id}
+    #test
 
     GET      /rest/api/2/issue/${id}
     Output      response body    ./test.json
