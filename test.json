@@ -1,10 +1,10 @@
 {
     "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-    "id": "10228",
-    "self": "https://juggernauttester.atlassian.net/rest/api/2/issue/10228",
-    "key": "MYP-229",
+    "id": "10229",
+    "self": "https://juggernauttester.atlassian.net/rest/api/2/issue/10229",
+    "key": "MYP-230",
     "fields": {
-        "statuscategorychangedate": "2020-10-21T02:36:50.456+0530",
+        "statuscategorychangedate": "2020-10-27T08:33:45.736+0530",
         "issuetype": {
             "self": "https://juggernauttester.atlassian.net/rest/api/2/issuetype/10004",
             "id": "10004",
@@ -34,27 +34,27 @@
         "resolution": null,
         "resolutiondate": null,
         "workratio": -1,
-        "watches": {
-            "self": "https://juggernauttester.atlassian.net/rest/api/2/issue/MYP-229/watchers",
-            "watchCount": 1,
-            "isWatching": true
-        },
-        "lastViewed": null,
         "issuerestriction": {
             "issuerestrictions": {},
             "shouldDisplay": false
         },
-        "created": "2020-10-21T02:36:50.139+0530",
+        "lastViewed": null,
+        "watches": {
+            "self": "https://juggernauttester.atlassian.net/rest/api/2/issue/MYP-230/watchers",
+            "watchCount": 1,
+            "isWatching": true
+        },
+        "created": "2020-10-27T08:33:45.416+0530",
         "customfield_10020": null,
         "customfield_10021": null,
         "customfield_10022": null,
+        "customfield_10023": null,
         "priority": {
             "self": "https://juggernauttester.atlassian.net/rest/api/2/priority/3",
             "iconUrl": "https://juggernauttester.atlassian.net/images/icons/priorities/medium.svg",
             "name": "Medium",
             "id": "3"
         },
-        "customfield_10023": null,
         "customfield_10024": null,
         "customfield_10025": null,
         "labels": [],
@@ -74,7 +74,7 @@
         "versions": [],
         "issuelinks": [],
         "assignee": null,
-        "updated": "2020-10-21T02:36:50.139+0530",
+        "updated": "2020-10-27T08:33:45.416+0530",
         "status": {
             "self": "https://juggernauttester.atlassian.net/rest/api/2/status/10000",
             "description": "",
@@ -102,8 +102,8 @@
         "customfield_10007": null,
         "customfield_10008": null,
         "attachment": [],
-        "aggregatetimeestimate": null,
         "customfield_10009": null,
+        "aggregatetimeestimate": null,
         "summary": "Bug ",
         "creator": {
             "self": "https://juggernauttester.atlassian.net/rest/api/2/user?accountId=5f0be034e5efc1001b94fadb",
@@ -136,11 +136,11 @@
             "timeZone": "Asia/Calcutta",
             "accountType": "atlassian"
         },
+        "customfield_10000": "{}",
         "aggregateprogress": {
             "progress": 0,
             "total": 0
         },
-        "customfield_10000": "{}",
         "customfield_10001": null,
         "customfield_10002": null,
         "customfield_10003": null,
@@ -152,7 +152,7 @@
             "total": 0
         },
         "votes": {
-            "self": "https://juggernauttester.atlassian.net/rest/api/2/issue/MYP-229/votes",
+            "self": "https://juggernauttester.atlassian.net/rest/api/2/issue/MYP-230/votes",
             "votes": 0,
             "hasVoted": false
         },
